@@ -22,8 +22,7 @@ def get_registered_user():
 @given('I go to the login page', target_fixture="login_page")
 def go_to_login_page(browser):
     browser.get(HOSTGATOR_FINANCE_URL)
-    login_page = LoginPage(browser)
-    return login_page
+    return LoginPage(browser)
 
 
 @when('I click on the Entendi button')
