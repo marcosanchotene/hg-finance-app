@@ -60,4 +60,4 @@ class LoginPage(BasePage):
         return super().verify_current_url(self.PAGE_URL)
 
     def switch_to_new_tab(self):
-        self.browser.switch_to_window(self.browser.window_handles[1])
+        self.browser.switch_to.window(self.browser.window_handles[1])
