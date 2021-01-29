@@ -1,7 +1,5 @@
-# HostGator code challenge
-This project is a test automation challenge for [this Login page](https://financeiro.hostgator.com.br)  
-and its [CEP search web API](https://financeiro.hostgator.com.br/api/v3/checkout/cep/{CEP}). It uses Python,
-Pytest, Pipenv, Selenium and Chrome.
+# Code challenge
+This project is a test automation challenge for [this Login page](https://financeiro.hostgator.com.br)  and its [CEP search web API](https://financeiro.hostgator.com.br/api/v3/checkout/cep/{CEP}). It uses Python, Pytest, Pipenv, Selenium and Chrome.
 
 ## Prerequisites
 You must have Python, Git, Chrome browser and Chromedriver (for the respective version of Chrome)
