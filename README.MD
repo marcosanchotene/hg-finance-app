@@ -1,6 +1,6 @@
 # HostGator code challenge
-This project is a test automation challenge for the Login page of https://financeiro.hostgator.com.br 
-and the CEP search web API https://financeiro.hostgator.com.br/api/v3/checkout/cep/{CEP}. It uses Python,
+This project is a test automation challenge for [this Login page](https://financeiro.hostgator.com.br)  
+and its [CEP search web API](https://financeiro.hostgator.com.br/api/v3/checkout/cep/{CEP}). It uses Python,
 Pytest, Pipenv, Selenium and Chrome.
 
 ## Prerequisites
